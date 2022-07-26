@@ -1,2 +1,2 @@
 # hyperblog
-Blog del culso profesional de Git y GitHub de Plazi
+Blog del culso profesional de Git y GitHub de Platzi
